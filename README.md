@@ -8,6 +8,10 @@ Proyecto independiente para la plataforma de Emprende Rosa.
 - Hosting reservado: <https://emprende-rosa-os.web.app>
 - GitHub: <https://github.com/ddss20/emprende-rosa-os>
 
+Cuenta operativa: `agenciaemprenderosa@gmail.com`. Para cualquier comando de
+Firebase, indique explícitamente `--account agenciaemprenderosa@gmail.com` y
+`--project emprende-rosa-os`.
+
 La configuración local apunta exclusivamente a este proyecto mediante
 `.firebaserc`, evitando despliegues accidentales sobre otros productos.
 
